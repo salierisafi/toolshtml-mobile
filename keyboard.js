@@ -11,7 +11,7 @@ hidInput.value = "    ";
 
 function getChar(e) {
     return new Promise(resolve => {
-        if (e.key !== "Unidentified" && e.key.length === 1){  
+        if (e.key !== "Unidentified"){  
             resolve(e.key);  
             hidInput.value = "    ";
             hidInput.setSelectionRange(2,2);
