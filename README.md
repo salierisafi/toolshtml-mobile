@@ -5,4 +5,7 @@ Nah, ini tinggal masukin :
 ```
 <script src="https://cdn.jsdelivr.net/gh/salierisafi/debughtml-mobile@main/keyboard.js"></script>
 ```
-di html nya, jika kita klik halaman web nya, maka langsung muncul keyboard.
+di html nya, jika kita klik halaman web nya, maka langsung muncul keyboard.  
+
+Nah, untuk script agak beda, karena di hp, ketika kita mengetikkan printable character , hasil dari e.key nya malah unidentified.  
+
