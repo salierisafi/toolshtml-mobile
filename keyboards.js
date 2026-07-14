@@ -2,11 +2,9 @@
 // mengambil input keyboard di mobile
 
 let hidInput = document.createElement('input');
-hidInput.style = "width:0px; height:0px;"
 hidInput.style.position = "absolute";
 hidInput.style.left = "-9999px"; 
 document.body.appendChild(hidInput);
-//hidInput.style = "opacity:0;";
 hidInput.value = "    ";
 
 function getChar(e) {
