@@ -9,3 +9,11 @@ di html nya, jika kita klik halaman web nya, maka langsung muncul keyboard.
 
 Nah, untuk script agak beda, karena di hp, ketika kita mengetikkan printable character , hasil dari e.key nya malah unidentified.  
 
+kita pakai fungsi getChar dan menggunakan async-await untuk menunggu output keluar.
+```
+document.addEventListener('keydown', async (e) => {
+let char = getChar(e);
+console.log(char);
+}
+```
+
