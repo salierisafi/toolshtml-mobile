@@ -12,8 +12,8 @@ Nah, untuk script agak beda, karena di hp, ketika kita mengetikkan printable cha
 kita pakai fungsi getChar dan menggunakan async-await untuk menunggu output keluar.
 ```
 document.addEventListener('keydown', async (e) => {
-let char = getChar(e);
+let char = await getChar(e);
 console.log(char);
-}
+});
 ```
 
