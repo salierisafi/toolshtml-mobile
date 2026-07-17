@@ -21,7 +21,7 @@ console.log(char); // ganti dengan kode kalian
 **Munculin console.log di html mobile**
 
 Saya buat
-```
+```html
 <script src="https://cdn.jsdelivr.net/gh/salierisafi/toolshtml-mobile@main/tesconsole.js"></script>
 ```
-Tapi tidak disarankan, pakai Dev-tools seperti eruda dan vConsole yang telah saya sebutkan di Dev-tools.md
+Tapi tidak disarankan memakai ini, disarankan pakai Dev-tools seperti eruda dan vConsole yang telah saya sebutkan di Dev-tools.md
