@@ -13,7 +13,7 @@ Kita akan pakai fungsi getChar dari kode yang telah kita buat dan menggunakan as
 ```
 document.addEventListener('keydown', async (e) => {
 let char = await getChar(e);
-console.log(char);
+console.log(char); // ganti dengan kode kalian
 });
 ```
 
