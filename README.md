@@ -24,4 +24,4 @@ Saya buat
 ```
 <script src="https://cdn.jsdelivr.net/gh/salierisafi/toolshtml-mobile@main/tesconsole.js"></script>
 ```
-Tapi tidak disarankan, pakai 
+Tapi tidak disarankan, pakai Dev-tools seperti eruda dan vConsole yang telah saya sebutkan di Dev-tools.md
