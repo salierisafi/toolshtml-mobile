@@ -24,4 +24,4 @@ Saya buat
 ```html
 <script src="https://cdn.jsdelivr.net/gh/salierisafi/toolshtml-mobile@main/tesconsole.js"></script>
 ```
-Tapi tidak disarankan memakai ini, disarankan pakai Dev-tools seperti eruda dan vConsole yang telah saya sebutkan di Dev-tools.md
+Tapi tidak disarankan memakai ini, disarankan pakai `Dev tools mobile` seperti `eruda` dan `vConsole` yang telah saya sebutkan di DevTools-mobile.md
