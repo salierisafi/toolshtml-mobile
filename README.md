@@ -19,3 +19,9 @@ console.log(char); // ganti dengan kode kalian
 ```
 ***
 **Munculin console.log di html mobile**
+
+Saya buat
+```
+<script src="https://cdn.jsdelivr.net/gh/salierisafi/toolshtml-mobile@main/tesconsole.js"></script>
+```
+Tapi tidak disarankan, pakai 
