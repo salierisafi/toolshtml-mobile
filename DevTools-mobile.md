@@ -1,4 +1,4 @@
-Ini agar saya tidak lupa.
+Ini cuma agar saya tidak lupa.
 ```html
 <script src="https://cdn.jsdelivr.net/npm/eruda" onload="eruda.init()"></script>
 ```
